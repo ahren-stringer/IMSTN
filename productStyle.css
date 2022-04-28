@@ -1,0 +1,70 @@
+#productBlock{
+    width: 100%;
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    box-sizing: border-box;
+
+}
+
+#productElementOne{
+    background-image: url("IMG_4899.jpg");
+    background-size:cover ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: solid 10px;
+    border-color: white;
+}
+
+#productElementTwo{
+    background-image: url("IMG_4900.jpg");
+    background-size:cover ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: solid 10px;
+    border-color: white;
+}
+
+#productElementThree{
+    background-image: url("IMG_4902.JPG");
+    background-size:cover ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: solid 10px;
+    border-color: white;
+}
+
+#productElementFour{
+    background-image: url("IMG_4909.JPG");
+    background-size:cover ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: solid 10px;
+    border-color: white;
+}
+
+.pOneProduct{
+    font-size: 70px;
+    color: white;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.pTwoProduct{
+    font-size: 70px;
+    color: white;
+}
+
