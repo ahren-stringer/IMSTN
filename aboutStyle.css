@@ -12,16 +12,15 @@
 }
 
 
-#infoAbout{
+#infoAbout {
     max-width: 1000px;
     height: 500px;
     position: absolute;
-    top: 27%;
+    top: 40%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     color: white;
-    
 }
 
 
@@ -37,7 +36,7 @@
     font-size: 28px;
     text-align: center;
     line-height: 40px;
-    margin-top: 400px;
+    margin-top: 11px;
     letter-spacing: 2px;
 }
 
@@ -54,6 +53,5 @@
     font-size: 36px;
     color: white;
     letter-spacing: 5px;
-    margin-left: 50%;
-    
+    /* margin-left: 50%; */
 }
