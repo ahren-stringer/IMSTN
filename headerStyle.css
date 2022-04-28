@@ -1,0 +1,61 @@
+#headBlock{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}
+
+#logoElement{
+    max-width: 20%;
+    margin-left: 50px;
+}
+
+.menuElement{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 24px;
+    color: black;
+    margin-left: auto;
+    margin-right: 50px;
+    transition: color 0.7ms;
+}
+
+.menuElement:hover{
+    color: rgb(233, 137, 212);
+    transition: color 0.7ms;
+
+}
+
+#menuBlock{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: 170px;
+}
+
+#vkElement img{
+    width: 100%;
+    align-items: center;
+}
+
+#tgElement img{
+    width: 100%;
+}
+
+#contactBlock div{
+    width: 55px;
+    height: 55px;
+    align-items: center;
+}
+
+#contactBlock{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-right: 60px;
+}
+
